@@ -4,7 +4,7 @@ A realy simple project made with Python for a restaurant checkout.
 
 ## Installing
 
- [Click here](https://drive.google.com/file/d/1D4qw0XDcVhae3GsjvF63ewcmuQjO4T3g/view?usp=sharing) to download the folder with the arquives.
+ [Click here](https://filebin.net/ehhhvy2ljfj1q67z) to download the folder with the arquives.
  
  After download the folder, extract and execute the 'checkout.exe' arquive.
 
